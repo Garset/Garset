@@ -52,7 +52,6 @@
       <li><strong>2017👩‍🍳 </strong> Professional pastry – CCPGEA (Caracas, Venezuela)</li>
       <li><strong>2015–2016 👩‍🍳</strong> Master's Degree in Baking and Pastry – Grupo Académico Panadero Pastelero (Caracas, Venezuela)</li>
       <li><strong>2014 👩‍🍳</strong>Professional pastry – Sugar Planet (Caracas, Venezuela)</li>
-      <li><strong>2003-2008 🏆</strong> Bachelor – U.E Colegio Eugenia Ravasco (Caracas, Venezuela)</li>
     </ul>
   </section>
 
